@@ -1,6 +1,8 @@
 # python-api-challenge
 UCI Data Analytics Bootcamp module 6 python api challenge
+
 The folder "Module-6-Challenge-Ashley_Canonizado" includes all of my necessary files needed for this assignment submission.
+
 - "Module-6-Challenge-Ashley_Canonizado" includes two folders- "Code-Ashley_Canonizado" and "output_data".
 - "Code-Ashley_Canonizado" includes two jupyter notebooks with my code- "VacationPy.ipynb" and "WeatherPy.ipynb"
     - "WeatherPy.ipynb" includes discussion on various graphs created from my code and responses from open weather apis within the last section of the notebook. 
